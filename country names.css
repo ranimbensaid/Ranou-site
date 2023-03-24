@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(rgb(180, 120, 150) , rgb(145, 127, 137));
+    height: 100vh;
+    font-family: system-ui;
+    background-image: url(2222.jpg);
+    background-size: cover;
+    padding: 6px 15px;
+    border-radius: 20px;
+    z-index: 100;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #87729b;
+}
+body :hover{
+    background: rgb(90, 120, 158);
+    color:hwb(324 4% 92%) ;
+}
